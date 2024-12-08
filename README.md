@@ -20,3 +20,24 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 # Run
 ![run pertemuan 12](https://github.com/user-attachments/assets/5c131e6f-74cc-430d-bc73-33399ca1d322)
+
+# Diagram Class
+![diagram class per12](https://github.com/user-attachments/assets/c1d1b872-7123-461e-b431-c19b5667ba1d)
+
+# Penjelasan Diagram Class
+
+• _init_(): Konstruktor yang menginisialisasi daftar_mahasiswa sebagai list kosong.
+
+• tambah(nama, nilai): Menambahkan data mahasiswa baru ke dalam daftar_mahasiswa.
+
+• tampilkan(): Menampilkan semua data mahasiswa yang ada dalam daftar_mahasiswa.
+
+• hapus(nama): Menghapus data mahasiswa berdasarkan nama yang diberikan.
+
+• ubah(nama, nilai_baru): Mengubah nilai mahasiswa berdasarkan nama yang diberikan.
+
+• Tanda +: Menunjukkan bahwa metode atau atribut tersebut bersifat publik (dapat diakses dari luar kelas).
+
+• Tanda -: Menunjukkan bahwa atribut tersebut bersifat privat (tidak dapat diakses dari luar kelas).
+
+# Flowchart
